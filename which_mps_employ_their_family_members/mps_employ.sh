@@ -4,7 +4,7 @@
 RED=`tput setaf 1`
 RESET=`tput sgr0`
 
-NUMBER_OF_MPS=$(wc -l < list_of_mps.txt | tr -d ' ')
+TOTAL_MPS=$(wc -l < list_of_mps.txt | tr -d ' ') && let "TOTAL_MPS++"
 COUNTER=1
 MPS_FOUND=0
 OUTPUT_FILE="mps_employ.csv"
@@ -18,7 +18,7 @@ do
     let "MPS_FOUND++"
   fi
   echo "$MP_NAME,\"$EMPLOYED\"" >> $OUTPUT_FILE
-  printf "Checked $COUNTER/$NUMBER_OF_MPS MPs. Found ${RED}$MPS_FOUND${RESET} MPs who employ their family members\r"
+  printf "Checked $COUNTER/$TOTAL_MPS MPs. Found ${RED}$MPS_FOUND${RESET} MPs who employ their family members.\r"
   let "COUNTER++"
 done
 
