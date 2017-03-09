@@ -267,6 +267,7 @@ Harper_Mark
 Harrington_Richard
 Harris_Carolyn
 Harris_Rebecca
+Harrison_Trudy
 Hart_Simon
 Haselhurst_Alan
 Hayes_Helen
@@ -304,7 +305,6 @@ Howlett_Ben
 Hoyle_Lindsay
 Huddleston_Nigel
 Hunt_Jeremy
-Hunt_Tristram
 Huq_Rupa
 Hurd_Nick
 Hussain_Imran
@@ -500,7 +500,6 @@ Qureshi_Yasmin
 Raab_Dominic
 Rayner_Angela
 Redwood_John
-Reed_Jamie
 Reed_Steve
 Rees-Mogg_Jacob
 Rees_Christina
@@ -552,6 +551,7 @@ Smith_Nick
 Smith_Owen
 Smith_Royston
 Smyth_Karin
+Snell_Gareth
 Soames_Nicholas
 Solloway_Amanda
 Soubry_Anna
