@@ -14,7 +14,7 @@ ERRORS=false
 function main {
   for MP_NAME in $(cat list_of_mps.txt | stripDOSLineEndings )
   do
-    MP_URL="https://www.publications.parliament.uk/pa/cm/cmregmem/170220/$MP_NAME.htm"
+    MP_URL="https://www.publications.parliament.uk/pa/cm/cmregmem/170306/$MP_NAME.htm"
     MP_HTML_PAGE=$(curl -s $MP_URL)
     checkForAndLogIfError
     local EMPLOYMENT=$(echo "$MP_HTML_PAGE" | grep 'I employ' | grep -o '>.*<' | tr -d '<>' | sed 's/^span class="highlight"//' | sed 's/\/span//')
