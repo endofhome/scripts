@@ -17,7 +17,7 @@ function main {
     MP_URL="https://www.publications.parliament.uk/pa/cm/cmregmem/170306/$MP_NAME.htm"
     MP_HTML_PAGE=$(curl -s $MP_URL)
     checkForAndLogIfError
-    local EMPLOYMENT=$(echo "$MP_HTML_PAGE" | grep 'I employ' | grep -o '>.*<' | tr -d '<>' | sed 's/^span class="highlight"//' | sed 's/\/span//')
+    local EMPLOYMENT=$(echo "$MP_HTML_PAGE" | grep 'I employ ' | grep -o '>.*<' | tr -d '<>' | sed 's/^span class="highlight"//' | sed 's/\/span//')
 
     if [[ -n "$EMPLOYMENT"  ]]; then
       let "MPS_FOUND++"
