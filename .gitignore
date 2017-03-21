@@ -1,4 +1,6 @@
 .idea/*
+*/.~lock*
+
 */mps_employ.csv
 */errors.csv
 */errors_mps_earnings.csv
