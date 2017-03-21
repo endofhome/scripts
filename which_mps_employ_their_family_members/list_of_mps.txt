@@ -138,7 +138,7 @@ Danczuk_Simon
 David_Wayne
 Davies_Byron
 Davies_Chris
-Davies_David
+Davies_David-T-C
 Davies_Geraint
 Davies_Glyn
 Davies_James
@@ -329,7 +329,7 @@ Jones_Graham
 Jones_Helen
 Jones_Kevan
 Jones_Marcus
-Jones_Susan_Elan
+Jones_Susan-Elan
 Kane_Mike
 Kaufman_Gerald
 Kawczynski_Daniel
@@ -345,7 +345,7 @@ Knight_Greg
 Knight_Julian
 Kwarteng_Kwasi
 Kyle_Peter
-Laing_Mrs_Eleanor
+Laing_Eleanor
 Lamb_Norman
 Lammy_David
 Lancaster_Mark
@@ -458,7 +458,7 @@ Nokes_Caroline
 Norman_Jesse
 Nuttall_David
 Offord_Matthew
-O'Hara_Brendan
+OHara_Brendan
 Olney_Sarah
 Onn_Melanie
 Onwurah_Chi
