@@ -1,0 +1,3 @@
+[submodule "dear-diary"]
+	path = dear-diary
+	url = https://github.com/forty9er/dear-diary
