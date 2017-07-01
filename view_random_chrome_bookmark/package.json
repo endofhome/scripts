@@ -1,0 +1,14 @@
+{
+  "name": "view_random_chrome_bookmark",
+  "version": "1.0.0",
+  "description": "Open a random Chrome bookmark",
+  "main": "view_random_chrome_bookmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Barnes (ruralmyth@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
+}
