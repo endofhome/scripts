@@ -9,6 +9,5 @@
   "author": "Tom Barnes (ruralmyth@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "opn": "^5.1.0"
   }
 }
