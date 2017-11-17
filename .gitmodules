@@ -1,3 +1,7 @@
 [submodule "dear-diary"]
 	path = dear-diary
 	url = https://github.com/forty9er/dear-diary
+[submodule "im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet"]
+	path = im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
+	url = https://github.com/forty9er/im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
+	branch = master
