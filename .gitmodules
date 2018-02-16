@@ -5,3 +5,6 @@
 	path = im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
 	url = https://github.com/forty9er/im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
 	branch = master
+[submodule "edimax-sunset-switcher"]
+	path = edimax-sunset-switcher
+	url = git@github.com:forty9er/edimax-sunset-switcher.git
