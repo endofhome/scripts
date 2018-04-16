@@ -8,3 +8,6 @@
 [submodule "edimax-sunset-switcher"]
 	path = edimax-sunset-switcher
 	url = git@github.com:forty9er/edimax-sunset-switcher.git
+[submodule "macOS-time-machine-backups"]
+	path = macOS-time-machine-backups
+	url = git@github.com:forty9er/macOS-time-machine-backups.git
