@@ -1,13 +1,13 @@
 [submodule "dear-diary"]
 	path = dear-diary
-	url = https://github.com/forty9er/dear-diary
+	url = https://github.com/endofhome/dear-diary
 [submodule "im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet"]
 	path = im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
-	url = https://github.com/forty9er/im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
+	url = https://github.com/endofhome/im-blind-drunk-but-at-least-i-still-have-that-fiver-in-my-wallet
 	branch = master
 [submodule "edimax-sunset-switcher"]
 	path = edimax-sunset-switcher
-	url = git@github.com:forty9er/edimax-sunset-switcher.git
+	url = git@github.com:endofhome/edimax-sunset-switcher.git
 [submodule "macOS-time-machine-backups"]
 	path = macOS-time-machine-backups
-	url = git@github.com:forty9er/macOS-time-machine-backups.git
+	url = git@github.com:endofhome/macOS-time-machine-backups.git
